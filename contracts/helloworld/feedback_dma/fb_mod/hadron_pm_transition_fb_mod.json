@@ -31,7 +31,7 @@
                     "raw_module_name": "ds_discovery.handlers.pandas_handlers",
                     "raw_handler": "PandasPersistHandler",
                     "raw_version": "v01",
-                    "raw_kwargs": {},
+                    "raw_kwargs": {"check":1},
                     "aligned": true
                 },
                 "field_description": {
