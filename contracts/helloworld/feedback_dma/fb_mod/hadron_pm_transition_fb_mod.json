@@ -60,8 +60,8 @@
                 },
                 "pm_transition_fb_mod": {
                     "raw_uri": "${PWD}/helloworld/feedback_dma/fb_mod/contracts/hadron_pm_transition_fb_mod.json",
-                    "raw_module_name": "ds_discovery.handlers.pandas_handlers",
-                    "raw_handler": "PandasPersistHandler",
+                    "raw_module_name": "ds_discovery.handlers.managed_content_handlers",
+                    "raw_handler": "ManagedContentPersistHandler",
                     "raw_version": "v01",
                     "raw_kwargs": {},
                     "aligned": false
